@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pyhoi.com/sitemap.xml
+
+# Educational drone simulation
+# Built with Godot Engine for web deployment
